@@ -1,0 +1,14 @@
+IP;85.140.7.7;datetime;2021-05-22 21:09:30.441949;file_name;qs_file.txt;function;page;page_id;2;qs_amount;2;qs_name;0;qs_price;1;qs_type;Доходы;submit;Отправить;
+IP;85.140.7.7;datetime;2021-05-22 21:09:40.191526;file_name;qs_file.txt;function;page;page_id;2;qs_amount;1;qs_name;0;qs_price;1;qs_type;Расходы;submit;Отправить;
+<<<<<<< HEAD
+IP;5.164.204.136;datetime;2021-06-03 14:01:38.534532;file_name;qs_file.txt;function;page;page_id;2;qs_amount;1;qs_name;das;qs_price;2;qs_type;Доходы;submit;Отправить;
+IP;5.164.204.136;datetime;2021-06-03 14:58:23.398097;file_name;qs_file.txt;function;page;page_id;2;qs_amount;654;qs_name;234;qs_price;1;qs_type;Доходы;submit;Отправить;
+IP;83.149.47.65;datetime;2021-06-08 10:15:58.863980;file_name;qs_file.txt;function;page;page_id;2;qs_amount;0;qs_name;Я хачу мацацыкал;qs_price;0;qs_type;Доходы;submit;Отправить;
+IP;95.37.2.242;datetime;2021-06-09 11:12:56.480119;file_name;qs_file.txt;function;page;page_id;2;qs_amount;0;qs_price;0;qs_type;Доходы;submit;Отправить;
+IP;5.164.204.136;datetime;2021-06-09 13:46:50.855461;file_name;qs_file.txt;function;page;page_id;2;qs_amount;0;qs_name;2;qs_price;04;qs_type;Доходы;submit;Отправить;
+IP;176.59.98.186;datetime;2021-06-14 19:36:12.707779;file_name;qs_file.txt;function;page;page_id;2;qs_amount;0;qs_price;0;qs_type;Обычные кубы;submit;Отправить;
+IP;178.204.113.147;datetime;2021-06-17 03:15:23.506092;file_name;qs_file.txt;function;page;page_id;2;qs_amount;4;qs_name;илоил;qs_price;3;qs_type;Доходы;submit;Отправить;
+IP;178.204.113.147;datetime;2021-06-18 05:00:37.151227;file_name;qs_file.txt;function;page;page_id;2;qs_amount;45;qs_name;vc xv ;qs_price;66;qs_type;Доходы;submit;Отправить;
+IP;66.181.161.100;datetime;2021-06-24 10:07:40.904789;file_name;qs_file.txt;function;page;page_id;2;qs_amount;15;qs_name;gaga;qs_price;1500;qs_type;Доходы;submit;Отправить;
+=======
+>>>>>>> 95741afb8f8672cf2f9dec79b2fe95bb922e98d8

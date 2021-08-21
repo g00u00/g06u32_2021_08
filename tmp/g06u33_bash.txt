@@ -1,0 +1,15 @@
+ls;3;mkdir_mv_rm_cp;1;
+ls;3;mkdir_mv_rm_cp;1;
+ls;3;mkdir_mv_rm_cp;1;
+ls;3;mkdir_mv_rm_cp;1;
+ls;3;mkdir_mv_rm_cp;1;
+ls;3;mkdir_mv_rm_cp;1;
+ls;3;mkdir_mv_rm_cp;1;
+ls;3;mkdir_mv_rm_cp;1;
+<<<<<<< HEAD
+ls;3;mkdir_mv_rm_cp;1;
+ls;3;mkdir_mv_rm_cp;1;
+ls;3;mkdir_mv_rm_cp;1;
+ls;3;mkdir_mv_rm_cp;1;
+=======
+>>>>>>> 95741afb8f8672cf2f9dec79b2fe95bb922e98d8

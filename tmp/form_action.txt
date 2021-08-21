@@ -1,0 +1,1 @@
+IP: 85.140.3.120 ; datetime  ['2018-02-13', '19:27:55.506399']; file_name: file.txt; function: page; languages: good; last_name: Петров; market: Y; page_id: 2; password: 123; place: Бор; second_name: Петрович; submit: Отправить; есоном: Y;

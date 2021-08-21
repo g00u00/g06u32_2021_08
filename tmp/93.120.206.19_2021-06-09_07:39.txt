@@ -1,0 +1,26 @@
+
+0_a_qs_group: Аппараты защиты;
+0_b_qs_name: Выключатель дифференциального тока  003;
+0_c_qs_price: 1760.00;
+0_d_qs_amount: 1;
+0_z_endofline: \n;
+1_a_qs_group: Аппараты защиты;
+1_b_qs_name: Выключатель дифференциального тока  002;
+1_c_qs_price: 1360.00;
+1_d_qs_amount: 0;
+1_z_endofline: \n;
+2_a_qs_group: Аппараты защиты;
+2_b_qs_name: Выключатель дифференциального тока  001;
+2_c_qs_price: 1260.00;
+2_d_qs_amount: 0;
+2_z_endofline: \n;
+3_a_qs_group: Аппараты защиты;
+3_b_qs_name: Выключатель дифференциального тока  004;
+3_c_qs_price: 1160.00;
+3_d_qs_amount: 0;
+3_z_endofline: \n;
+file_name: shop_file.txt;
+function: page;
+page_id: 7;
+submit: Отправить в корзину;
+IP: 93.120.206.19; date:2021-06-09; time; 07:39;

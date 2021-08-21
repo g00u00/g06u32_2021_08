@@ -1,0 +1,17 @@
+variable_1;1;variable_2;2;variable_3;3;
+variable_1;1;variable_2;2;variable_3;3;
+variable_1;1;variable_2;2;variable_3;3;
+variable_1;1;variable_2;2;variable_3;3;
+<<<<<<< HEAD
+variable_1;1;variable_2;2;variable_3;3;
+variable_1;1;variable_2;2;variable_3;3;
+variable_1;1;variable_2;2;variable_3;3;
+variable_1;1;variable_2;2;variable_3;3;
+variable_1;1;variable_2;2;variable_3;3;
+variable_1;1;variable_2;2;variable_3;3;
+variable_1;1;variable_2;2;variable_3;3;
+variable_1;1;variable_2;2;variable_3;3;
+variable_1;1;variable_2;2;variable_3;3;
+variable_1;1;variable_2;2;variable_3;3;
+=======
+>>>>>>> 95741afb8f8672cf2f9dec79b2fe95bb922e98d8
